@@ -1,0 +1,226 @@
+ 
+.body{
+    
+    background-color: rgb(32, 203, 233);
+}
+.raju{
+
+    background-color:   #3EA99F;
+
+}
+
+.scrm h2{
+    position: relative;
+    font-size: 3vh;
+    text-align: center;
+    font-weight: bold;
+    opacity: 0.5;
+}
+.h{
+    color: #43BFC7;
+    font-Size: 30vh;
+    position: absolute;
+    right : 45vh;
+    padding-Top: 15px;
+    border-block-width : 5px;
+    border-block-color: blue;
+}
+
+.heda{
+
+    color: rgb(197, 190, 190);
+   
+
+}
+
+
+.baru h2{
+    background-color: #0b0c0c;
+    
+
+}
+
+.vinu{
+    font-Family: Cursive;
+          color: white;
+          
+          text-Align: end;
+          position: relative;
+          width: 99vh;
+          right: -103vh;
+          height: 500px;
+          font-Size: 20px;
+          padding-Top: 415PX;
+        border-color: black;
+}
+        
+.hony{
+    
+    background: blue;
+    width: 70vh;
+    position: relative;
+    height: 300px;
+    top: 60px;
+    right: -40px;
+    border-Radius: 10px;
+    color: white;
+}
+
+.hony img{
+    position: relative;
+    width: 85vh;
+    height: 140vh;
+
+    overflow: hidden;
+    transition: all ease 1s;
+}
+
+.hony img:hover{
+    scale: 1.1;
+}
+.head{
+    position: relative;
+    padding-left: 40%;
+    width: 70%;
+    color: #f11515;
+}
+
+.pare{
+   
+    left: 56%;
+    width: 90vh;
+    height: 300px;
+ 
+font-size: 3vh;
+position: relative;
+}
+
+.hedu{
+    color: red;
+    left: 22%;
+    position: relative;
+    font-size: 4vh;
+}
+
+.faq{
+    font-style: normal;
+     width: 90vh;
+     height: 300px;
+     left: 32%;
+     position: relative;
+     font-size: 3vh;
+     color:  #0b0c0c;
+}
+
+.bgfaq{
+
+    background-color: #00827F;
+}
+
+.bginfo{
+
+    background: #007C80;
+}
+.pro{
+
+    background-color:#008B8B ;
+    height: 390px;
+}
+
+.prohead{
+    color: red;
+    font-size: 5vh;
+    position: relative;
+    left: 5vh;
+}
+.prop{
+position: relative;
+font-size: 3vh;
+font-family: Serif;
+text-align: justify;
+left: 7vh;
+width: 100vh;
+color:white;
+}
+
+.conImg{
+    position: relative;
+    left: 50%;
+    border-radius: 3px;
+    width: 3px;
+    padding-top: 50vh;
+    
+}
+.conImg img{
+    position: relative;
+    width: 90vh;
+    height: 80vh;
+
+    overflow: hidden;
+    transition: all ease 1s;
+}
+.conImg img:hover {
+    scale: 1.1;
+    box-shadow: 0 0 4px 6px rgba(27, 27, 27, 0.5);
+   
+  }
+
+.bgprodo{
+    background-color: #3B9C9C;
+    height: 700px;
+}
+
+.prodoh{
+
+    position: relative;
+    color: red;
+    left: 4vh;
+    font-size: 4vh;
+
+}
+
+.pprodo{
+    position: relative;
+    font-size: 3vh;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-align: justify;
+    left: 9vh;
+    width: 60%;
+}
+
+.prodomF{
+    position: relative;
+    top: 70vh;
+    background-color: beige;
+    height: 12vh;
+    text-align: start;
+}
+
+.prodomF h1{
+    font-family: serif;
+    font-size: 5vh;
+    position: relative;
+    left: 70vh;
+}
+
+.prodomF h4{
+    font-family: serif;
+    position: relative;
+    left: 70vh;
+    font-size: 3vh;
+}
+
+.foot{
+    position: relative;
+    background-color: #0b0c0c;
+    color: white;
+    height: 30vh;
+    
+}
+.footP{
+    position: relative;
+    left: 40%;
+    top: 40px;
+    font-size: 3vh;
+}
